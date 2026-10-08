@@ -1,6 +1,6 @@
 {
-  "name": "CURRENT MAYBE: Sports Video Telestrator 2.0 - 2026OCT was 2026MAR",
-  "description": "A video annotation and recording tool. Upload sports clips, draw on them, record your voiceover, and export a final video.",
+  "name": "Sports Video Telestrator 2.1 - 10-7-2026</title>
+  "description": "A video telestration and recording tool. Upload clip, telestrate and record voiceover, and export a final video.",
   "requestFramePermissions": [
     "microphone"
   ],
